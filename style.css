@@ -8,8 +8,8 @@
   
   /* Main chat container */
   .chat-container {
-    max-width: 400px;
-    margin: 50px auto;
+    max-width: auto;
+    margin: 200px;
     border: 2px solid #2a4a45;
     border-radius: 10px;
     overflow: hidden;
